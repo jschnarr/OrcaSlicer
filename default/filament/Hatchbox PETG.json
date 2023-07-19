@@ -1,4 +1,7 @@
 {
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
     "filament_settings_id": [
         "Hatchbox PETG"
     ],
